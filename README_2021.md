@@ -2,7 +2,7 @@
 
 It is possible to land a job in tech without going through an algorithm & data structure hiring loop. The companies and teams listed here use majority interview techniques and questions that involve take home tests, pair programming, behavioral interviews, system design interviews and other non algorithm & data structure heavy questions.
 
-While leveraging this list in your company search, *be careful to confirm the specific company, role, AND location. Often, hiring and interview process differ even within the same company.*
+While leveraging this list in your company search, *be careful to confirm the specific company, role, AND location. Often, hiring and interview processes differ even within the same company.*
 
 Finally: this list is compiled in good faith and is based on the most recent collective experiences of the community for your educational benefit. If you have been through an interview process with a company, role and location detailed on this list, and you were given a traditional algorithm & data structures whiteboard interview, please detail your experience in the comments below! As often as possible, this list will be updated to reflect the community's most recent experiences.
 
