@@ -1,35 +1,10 @@
-# Hiring Without Whiteboards
+# The Ultimate 2021 "No Whiteboard" Tech Company List
 
-A list of companies (or teams) that don't do "whiteboard" interviews. "Whiteboards" is used as a metaphor, and is a _symbol_ for the kinds of CS trivia questions that are associated with bad interview practices. Whiteboards are not bad – CS trivia questions are. Using sites like HackerRank/LeetCode _probably_ fall into a similar category.
+It is possible to land a job in tech without going through an algorithm & data structure hiring loop. The companies and teams listed here use majority interview techniques and questions that involve take home tests, pair programming, behavorial interviews, system design and other non algorithm & data structure heavy questions.
 
-The companies and teams listed here use interview techniques and questions that resemble day-to-day work. For example, pairing on a real world problem or a paid/unpaid take home exercise. Read (and contribute to) [our recommendations](RECOMMENDATIONS.md) for ways to conduct better interviews.
+Be careful to confirm the specific company, role, AND location when using this list. Often, hiring and interview process differ even within the same company.
 
-### tl;dr
-- Discussing a real world problem (with or without whiteboard) is 👍
-- Solving CS trivia, technical puzzles, riddles, brainteasers (with or without whiteboard) is 👎
-
-<a href="https://twitter.com/dhh/status/834146806594433025?lang=en"><img src="https://i.imgur.com/xJV6cF4.png" width="500" /></a>
-
-Please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to be added.
-
-### Duds
-
-If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to remove them from this list.
-
-### I want to search/sort/filter/group by X!
-
-Check out our [Airtable](https://airtable.com/shr3eGPDm3wGjT2gA)!
-
-Additions to this document that are properly formatted will automatically be pushed and added to Airtable. Keywords from the description will also be extracted. You can see (and contribute!) to the [API here](https://github.com/poteto/hww-api).
-
-Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at these companies.
-
-### Discussion and other reads
-
-- Discussion
-  - [HackerNews (2017)](https://news.ycombinator.com/item?id=13874026)
-  - [HackerNews (2020)](https://news.ycombinator.com/item?id=23981795)
-- [Finding a better alternative to the whiteboard interview](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
+This list is compiled in good faith and is based on the most recent collective experiences of the community. If you have been through an interview process with a company, role and location detailed on this list, and you were given a traditional algorithm & data structures whiteboard interview, please detail your experience in the comments below! As often as possible, this list will be updated to reflect the community's most recent experiences.
 
 ---
 
@@ -48,7 +23,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [AdHawk](https://tryadhawk.com/jobs) | New York, NY / Remote | Intro phone call with HR, second conversation with AdHawk engineer, and final pairing interview with AdHawk engineer over a screenshare
 - [Admiral](https://getadmiral.com) | Gainesville, FL / Remote | Intro phone call with hiring manager, take-home assignment, (mostly) non-technical on-site with team/leadership
 - [Adnymics](https://adnymics.com) | Munich, DE | Take home project, then work with the team for a day
-- [Adthena](http://adthena.com) | London, UK | Takehome project and discussion on-site
+- [Adthena](http://adthena.com) | London, UK | Take home project and discussion on-site
 - [AdWyze](https://angel.co/adwyze/jobs) | Bangalore, India | Short takehome project + (for fulltime) onsite pairing
 - [AeroFS](https://www.aerofs.com/company/careers) | San Francisco, CA | Short takehome project + phone interview
 - [Ageno](https://ageno.pl) | Bielsko-Biala, Poland | Simple Magento Take-home project and discussion on the real world problems.
@@ -120,6 +95,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [BigBinary](https://www.bigbinary.com/jobs) | Remote | Phone discussion with a developer and the CEO
 - [BioConnect](https://www.bioconnect.com/company/careers) | Toronto, Canada | Take-home assignment & discussion
 - [bitExpert AG](https://www.bitexpert.de/karriere) | Mannheim, Germany | Interview with experience based technical questions
+- [Bitpanda](https://www.bitpanda.com/en/career) | Cracow, Poland / Remote | HR talk, take-home task, tech interview, culture fit interview
 - [Bits of Love](https://www.bitsoflove.be/careers) | Bruges, Belgium | In-person interview to evaluate experience and motivation, potentially followed by take-home project.
 - [Bitso](https://bitso.com/jobs) | Mexico City, Mexico / Remote | Intro phone or hangouts/skype call with People team, take home project followed by walkthrough of your code and some tech questions focused on your experience, founders video call with one of the founders
 - [Blackdot Solutions](http://blackdotsolutions.com) | Cambridge, UK | Take-home project followed by on-site face-to-face walkthru of your code focusing on decisions/reasoning/technology used.
@@ -427,6 +403,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Kindred Group, Native Apps Team](https://careers.kindredplc.com) | Stockholm SE, London UK | On-site/Skype programming task, Interview
 - [Kinnek](https://www.kinnek.com/jointeam) | New York, NY | Phone screen, on-site pairing session, take-home project
 - [Kiwi.com](https://code.kiwi.com) | Brno, Czech Republic | Phone Interview, Take-home projects, On-site code review & interview
+- [Knock.com](https://www.knock.com/careers) | San Francisco, CA / New York, NY / Remote | Phone Interview, Take-home project, On-site technical conversation relating to the tech stack you would be hired to build with
 - [KNPLabs](https://knplabs.com) | Nantes, France | First step: screening call directly with the CEO, to discuss company vision, assess cultural fit and experience. Second step: call or IRL interview with a developer and a project facilitator , technical discussions with focus on soft skills. The goal of the interview is for the 2 KNPeers to be able to answer: “Do I want to work with this person ?” If both say yes, the person is hired. If even at least one says no, the person is not hired.
 - [Kong](https://www.konghq.com/careers) | San Francisco, CA | Phone interview. Pairing and technical interviews. Take home assigment.
 - [Kongregate](http://www.kongregate.com/jobs) | Portland, OR | Phone screening. Take home project. On-site pairing and conversational technical interviews.
@@ -449,6 +426,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Lightricks](http://www.lightricks.com) | Jerusalem, Israel | Initial interview, Take home project, discussion on-site
 - [LinkResearchTools](http://jobs.linkresearchtools.com/job-offers) | Vienna, Austria | Skype interview, mini take-home exercise, discussion on-site / personal interview
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
+- [Linx Systems](https://www.linxsystems.com) | Bloomington, IL / Remote | 5-10 minute take home project; followed by a non-technical interview; finish up with a second take home project or paired with a developer for a 30-60 minute session.
 - [Litmus](https://litmus.com/careers#openings) | Remote | General technical questions, take-home code challenge, discussion, on-site programming session, meet & greet with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
 - [LoanZen](https://loanzen.in/team.html#Career) | Bengaluru, India | Initial phone interview about experience, a solve-at-home project based on the kind of work we do at our company, on-site interview discussing the submitted solution and a general discussion with the whole team
@@ -531,11 +509,13 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Norbsoft](https://www.norbsoft.com/careers) | Kraków, Poland; Warszawa, Poland; Sosnowiec, Poland; Remote | Take-home exercise or code sample submission, technical discussion by video conference
 - [Nord Software](https://www.nordsoftware.com/en/jobs) | Helsinki, Finland; Tampere, Finland; Stockholm, Sweden | Take-home exercise & interview with CEO and senior developer
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
+- [NordPass](https://nordsecurity.com/careers) | Remote | HR talk, take-home task, tech interview, culture fit interview
 - [Nova Care](https://www.novacare.no) | Oslo, Norway | Casual interview, take-home exercise & presentation
 - [Nova Credit](https://www.novacredit.com/careers) | San Francisco, CA | Choose between a take home assignment or two interviews on CoderPad, CodePen, or your local dev env while screensharing. Final round is onsite working on a small project
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [Novoda](https://novoda.com/joinus) | London, UK; Liverpool, UK; Berlin, Germany; Barcelona, Spain; Remote | 2 x Pairing sessions & conversational interviews [(public repo)](https://github.com/novoda/dojos)
 - [Novus Partners](https://www.novus.com/jobs) | New York, NY | Take-home exercise & on-site exercises (choice of laptop or whiteboard)
+- [Noyo](https://www.noyo.com/careers/) | San Francisco, CA / Durham, NC / Remote | Phone interview, take-home assignment, on-site code review, and walk through a past project you're proud of
 - [Nozbe](https://nozbe.com/careers) | Remote | Take-home exercise & interview with the team
 - [npm, Inc](https://npmjs.com/jobs) | Oakland, CA / Remote | No technical challenges. Just interview conversations.
 - [Nubank](https://nubank.workable.com) | São Paulo, BR | Phone conversation, take-home exercise, code walkthrough, on-site code pairing.
@@ -557,6 +537,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Onfido](https://onfido.com/jobs) | London, UK; Lisbon, Portugal | Take-home exercise and on-site interview/discussion with potential team
 - [Ontame.io](https://ontame.io) | Copenhagen, Denmark | Take home exercise and specific role discussion
 - [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
+- [Openbase](https://angel.co/company/openbasecom) | San Francisco, CA | Take-home exercise on real-world problem & discussion with engineers about exercise
 - [Openmind](https://www.openmindonline.it) | Monza, Italy | On-site interviews
 - [Optoro](http://www.optoro.com/open_position_item/?oid=134960) | Washington, DC | Take home exercise. Review your code onsite.
 - [Ori](http://ori.co)| London, UK | Phone interview and a takehome project, followed by a two hour meeting with the team
@@ -696,11 +677,11 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Sogilis](http://sogilis.com) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
 - [Sourcegraph](https://about.sourcegraph.com/jobs) | San Francisco, CA & Remote | Tailored to the candidate, often consists of take-home work, discussion of real-world eng challenges, and product familiarity.
 - [Splice](https://jobs.splice.com) | New York, NY; Remote | Call with recruiter, 4 hr take-home project, video interview w two engs on take-home exercise, video call with hiring manager, video call w VPE & principal eng to talk about architecture.
+- [Splyt](https://careers.splyt.com) | London, UK; Singapore, Singapore; Kuala Lumpur, Malaysia; Tokyo, Japan | Initial screening with recruiters from hr department, take home assessment (React + Node.js), followed by remote/on-site interviews with hiring manager and CTO about the assessment, system design/architecture, and cultural fit.
 - [Spreedly](https://www.spreedly.com/jobs) | Durham, NC | Take-home project [related to business](https://engineering.spreedly.com/blog/programming-puzzles-are-not-the-answer-how-spreedly-does-work-samples.html)
 - [Springer Nature (Asia)](https://www.natureasia.com) | Tokyo, Japan | Discussion & Pair programming session
 - [Springer Nature Digital](https://sndigital.springernature.com) | Berlin, Germany; London, UK | Phone chat; take-home project; then a pairing session based on the project, a technical chat, and a chat with non-technical team members
 - [SpronQ](https://www.spronq.nl) | Amsterdam, Netherlands | Takehome coding challenge
-- [Square](https://squareup.com/careers) | San Francisco, CA | Pair programming in a work environment
 - [Square Sense](https://square-sense.com) | Paris, France | Short phone screen to confirm the interest, take-home project (similar to some of our existing software), a pair-programming interview where we will make some changes to the same project
 - [Srijan Technologies](http://srijan.net) | Delhi, India | General high level questions/discussion followed by Pair programming OR take-home coding challenge
 - [Stardog Union](http://stardog.com) | Washington, DC; Remote | Technical discussion and general interest conversations
@@ -855,7 +836,9 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Zweitag](https://www.zweitag.de/karriere) | Münster, Germany & Remote | Get-to-know call, take-home task representative to our problems, mentoring throughout the process, on-site pairing and discussion, talks for aligning expectations
 - [Zype](https://boards.greenhouse.io/zype) | New York, NY & Remote | Skype/Video call with VP of Product and a take-home challenge.
 
-## Also see:
-- [They Whiteboarded Me!](http://they.whiteboarded.me)
+### Discussion and other reads
 
-[![Build Status](https://travis-ci.org/poteto/hiring-without-whiteboards.svg?branch=master)](https://travis-ci.org/poteto/hiring-without-whiteboards)
+- Discussion
+  - [HackerNews (2017)](https://news.ycombinator.com/item?id=13874026)
+  - [HackerNews (2020)](https://news.ycombinator.com/item?id=23981795)
+- [Finding a better alternative to the whiteboard interview](https://theoutline.com/post/1256/finding-a-better-alternative-to-the-whiteboard-interview)
